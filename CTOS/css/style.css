@@ -1,0 +1,21 @@
+.seleccion{
+	background:url(../img/sequi.png) top center no-repeat;
+	background-size:cover;
+	padding:60px 0 10px;
+	text-align:center;
+}
+.selecciona{
+	background:url(../img/partido.jpg) top center no-repeat;
+	background-size:cover;
+	padding:60px 0 10px;
+	text-align:center;
+}
+.seleccionado{
+	background:url(../img/servi.png) top center no-repeat;
+	background-size:cover;
+	padding:60px 0 10px;
+	text-align:center;
+}
+p {
+	font-family: "Roboto", serif;
+}
